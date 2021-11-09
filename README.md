@@ -1,4 +1,6 @@
-# binário
+Atividade de conversão de número decimal para binário
+
+Aula do dia 08-11-21
 
 56 - 00111000
 
